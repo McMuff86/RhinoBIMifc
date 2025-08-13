@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/schemas/doorparam.schema.json",
+  "title": "DoorParam",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "width_mm": { "type": "number" },
+    "height_mm": { "type": "number" },
+    "thickness_mm": { "type": "number" },
+    "handing": { "type": "string" },
+    "operation": { "type": "string" },
+    "fire_rating": { "type": ["string", "null"] },
+    "acoustic_rating_db": { "type": ["integer", "null"] },
+    "is_external": { "type": "boolean" },
+    "frame_profile": { "type": "string" },
+    "leaf_material": { "type": "string" },
+    "hardware_set": { "type": "string" },
+    "world_transform": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 16,
+      "maxItems": 16
+    },
+    "notes": { "type": ["string", "null"] }
+  },
+  "required": [
+    "id","name","width_mm","height_mm","thickness_mm","handing","operation",
+    "is_external","frame_profile","leaf_material","hardware_set","world_transform"
+  ]
+}
+
+

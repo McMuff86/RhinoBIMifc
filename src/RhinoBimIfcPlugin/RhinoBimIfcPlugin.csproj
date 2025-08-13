@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\RhinoBimIfc.Core\RhinoBimIfc.Core.csproj" />
+    <ProjectReference Include="..\RhinoBimIfc.GH\RhinoBimIfc.GH.csproj" />
+    <ProjectReference Include="..\RhinoBimIfc.View\RhinoBimIfc.View.csproj" />
+    <ProjectReference Include="..\RhinoBimIfc.IFC.Adapter\RhinoBimIfc.IFC.Adapter.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

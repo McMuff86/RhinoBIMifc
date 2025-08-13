@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/schemas/bomline.schema.json",
+  "title": "BomLine",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "door_id": { "type": "string" },
+    "item_code": { "type": "string" },
+    "description": { "type": "string" },
+    "category": { "type": "string" },
+    "material": { "type": "string" },
+    "length_mm": { "type": "number" },
+    "width_mm": { "type": "number" },
+    "thickness_mm": { "type": "number" },
+    "qty": { "type": "number" },
+    "unit": { "type": "string" },
+    "source": { "type": "string" },
+    "notes": { "type": "string" }
+  },
+  "required": [
+    "id","door_id","item_code","description","category","qty","unit","source"
+  ]
+}
+
+
