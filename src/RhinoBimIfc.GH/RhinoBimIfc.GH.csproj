@@ -10,4 +10,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RhinoBuild)'=='true' ">
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
 </Project>

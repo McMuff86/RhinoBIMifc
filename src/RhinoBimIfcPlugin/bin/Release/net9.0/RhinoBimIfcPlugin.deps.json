@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RhinoBimIfcPlugin/1.0.0": {
+        "dependencies": {
+          "RhinoBimIfc.Core": "1.0.0",
+          "RhinoBimIfc.GH": "1.0.0",
+          "RhinoBimIfc.IFC.Adapter": "1.0.0",
+          "RhinoBimIfc.View": "1.0.0",
+          "RhinoCommon": "8.22.25217.12451"
+        },
+        "runtime": {
+          "RhinoBimIfcPlugin.dll": {}
+        }
+      },
+      "RhinoBimIfc.Core/1.0.0": {
+        "runtime": {
+          "RhinoBimIfc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RhinoBimIfc.GH/1.0.0": {
+        "dependencies": {
+          "RhinoBimIfc.Core": "1.0.0"
+        },
+        "runtime": {
+          "RhinoBimIfc.GH.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RhinoBimIfc.IFC.Adapter/1.0.0": {
+        "dependencies": {
+          "RhinoBimIfc.Core": "1.0.0"
+        },
+        "runtime": {
+          "RhinoBimIfc.IFC.Adapter.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RhinoBimIfc.View/1.0.0": {
+        "dependencies": {
+          "RhinoBimIfc.Core": "1.0.0"
+        },
+        "runtime": {
+          "RhinoBimIfc.View.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RhinoCommon/8.22.25217.12451": {
+        "runtime": {
+          "RhinoCommon.dll": {
+            "assemblyVersion": "8.22.25217.12451",
+            "fileVersion": "8.22.25217.12451"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RhinoBimIfcPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RhinoBimIfc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RhinoBimIfc.GH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RhinoBimIfc.IFC.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RhinoBimIfc.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RhinoCommon/8.22.25217.12451": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

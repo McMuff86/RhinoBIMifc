@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCM+UC0oLBs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\RhinoBimIfc.GH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adi.Muff\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adi.Muff\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adi.Muff\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

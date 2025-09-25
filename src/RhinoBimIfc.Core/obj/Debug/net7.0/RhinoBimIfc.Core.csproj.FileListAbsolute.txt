@@ -1,0 +1,12 @@
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\bin\Debug\net7.0\RhinoBimIfc.Core.deps.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\bin\Debug\net7.0\RhinoBimIfc.Core.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\bin\Debug\net7.0\RhinoBimIfc.Core.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.AssemblyInfoInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.AssemblyInfo.cs
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.sourcelink.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\refint\RhinoBimIfc.Core.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\RhinoBimIfc.Core.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.Core\obj\Debug\net7.0\ref\RhinoBimIfc.Core.dll

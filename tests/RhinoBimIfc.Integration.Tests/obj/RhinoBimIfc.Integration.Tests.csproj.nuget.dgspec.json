@@ -1,0 +1,501 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\tests\\RhinoBimIfc.Integration.Tests\\RhinoBimIfc.Integration.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj",
+        "projectName": "RhinoBimIfc.Core",
+        "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj",
+        "packagesPath": "C:\\Users\\Adi.Muff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adi.Muff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\RhinoBimIfc.GH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\RhinoBimIfc.GH.csproj",
+        "projectName": "RhinoBimIfc.GH",
+        "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\RhinoBimIfc.GH.csproj",
+        "packagesPath": "C:\\Users\\Adi.Muff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adi.Muff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.Adapter\\RhinoBimIfc.IFC.Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.Adapter\\RhinoBimIfc.IFC.Adapter.csproj",
+        "projectName": "RhinoBimIfc.IFC.Adapter",
+        "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.Adapter\\RhinoBimIfc.IFC.Adapter.csproj",
+        "packagesPath": "C:\\Users\\Adi.Muff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adi.Muff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.View\\RhinoBimIfc.View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.View\\RhinoBimIfc.View.csproj",
+        "projectName": "RhinoBimIfc.View",
+        "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.View\\RhinoBimIfc.View.csproj",
+        "packagesPath": "C:\\Users\\Adi.Muff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.View\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adi.Muff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfcPlugin\\RhinoBimIfcPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfcPlugin\\RhinoBimIfcPlugin.csproj",
+        "projectName": "RhinoBimIfcPlugin",
+        "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfcPlugin\\RhinoBimIfcPlugin.csproj",
+        "packagesPath": "C:\\Users\\Adi.Muff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfcPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adi.Muff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.Core\\RhinoBimIfc.Core.csproj"
+              },
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\RhinoBimIfc.GH.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.GH\\RhinoBimIfc.GH.csproj"
+              },
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.Adapter\\RhinoBimIfc.IFC.Adapter.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.Adapter\\RhinoBimIfc.IFC.Adapter.csproj"
+              },
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.View\\RhinoBimIfc.View.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.View\\RhinoBimIfc.View.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\tests\\RhinoBimIfc.Integration.Tests\\RhinoBimIfc.Integration.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\tests\\RhinoBimIfc.Integration.Tests\\RhinoBimIfc.Integration.Tests.csproj",
+        "projectName": "RhinoBimIfc.Integration.Tests",
+        "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\tests\\RhinoBimIfc.Integration.Tests\\RhinoBimIfc.Integration.Tests.csproj",
+        "packagesPath": "C:\\Users\\Adi.Muff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\tests\\RhinoBimIfc.Integration.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adi.Muff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfcPlugin\\RhinoBimIfcPlugin.csproj": {
+                "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfcPlugin\\RhinoBimIfcPlugin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RhinoBimIfc.IFC.XBim/1.0.0": {
+        "dependencies": {
+          "RhinoBimIfc.Core": "1.0.0"
+        },
+        "runtime": {
+          "RhinoBimIfc.IFC.XBim.dll": {}
+        }
+      },
+      "RhinoBimIfc.Core/1.0.0": {
+        "runtime": {
+          "RhinoBimIfc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RhinoBimIfc.IFC.XBim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RhinoBimIfc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\bin\Release\net9.0\RhinoBimIfc.GH.deps.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\bin\Release\net9.0\RhinoBimIfc.GH.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\bin\Release\net9.0\RhinoBimIfc.GH.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\bin\Release\net9.0\RhinoBimIfc.Core.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\bin\Release\net9.0\RhinoBimIfc.Core.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.csproj.AssemblyReference.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.AssemblyInfoInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.AssemblyInfo.cs
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.csproj.CoreCompileInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.sourcelink.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBim.36D8FC1C.Up2Date
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\refint\RhinoBimIfc.GH.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\RhinoBimIfc.GH.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.GH\obj\Release\net9.0\ref\RhinoBimIfc.GH.dll

@@ -1,0 +1,16 @@
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\bin\Release\net9.0\RhinoBimIfc.View.deps.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\bin\Release\net9.0\RhinoBimIfc.View.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\bin\Release\net9.0\RhinoBimIfc.View.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\bin\Release\net9.0\RhinoBimIfc.Core.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\bin\Release\net9.0\RhinoBimIfc.Core.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.csproj.AssemblyReference.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.AssemblyInfoInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.AssemblyInfo.cs
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.csproj.CoreCompileInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.sourcelink.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBim.CD77EDE0.Up2Date
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\refint\RhinoBimIfc.View.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\RhinoBimIfc.View.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.View\obj\Release\net9.0\ref\RhinoBimIfc.View.dll

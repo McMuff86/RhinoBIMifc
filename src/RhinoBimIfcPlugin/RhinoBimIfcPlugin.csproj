@@ -11,6 +11,33 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!-- Define RHINO only when explicitly requested (e.g., -p:RhinoBuild=true) -->
+    <DefineConstants Condition=" '$(RhinoBuild)' == 'true' and '$(DefineConstants)' != '' ">$(DefineConstants);RHINO</DefineConstants>
+    <OutputType>Library</OutputType>
   </PropertyGroup>
+
+  <!-- Make Debug configuration enable RhinoBuild by default for VS F5 -->
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <RhinoBuild>true</RhinoBuild>
+  </PropertyGroup>
+
+  <!-- Default RhinoCommon path when RhinoBuild=true; can be overridden with -p:RhinoCommonPath=... -->
+  <PropertyGroup Condition=" '$(RhinoBuild)'=='true' and '$(RhinoCommonPath)'=='' ">
+    <RhinoCommonPath>$(ProgramFiles)\Rhino 8\System\RhinoCommon.dll</RhinoCommonPath>
+  </PropertyGroup>
+
+  <ItemGroup Condition=" '$(RhinoBuild)'=='true' ">
+    <Reference Include="RhinoCommon">
+      <HintPath>$(RhinoCommonPath)</HintPath>
+      <Private>false</Private>
+      <CopyLocal>false</CopyLocal>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="RhinoCommon">
+      <HintPath>..\..\..\..\..\..\Program Files\Rhino 8\System\RhinoCommon.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>

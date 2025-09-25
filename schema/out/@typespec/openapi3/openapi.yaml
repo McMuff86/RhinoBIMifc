@@ -65,13 +65,16 @@ components:
       type: object
       required:
         - id
-        - version
+        - ifcxVersion
+        - dataVersion
         - author
         - timestamp
       properties:
         id:
           type: string
-        version:
+        ifcxVersion:
+          type: string
+        dataVersion:
           type: string
         author:
           type: string

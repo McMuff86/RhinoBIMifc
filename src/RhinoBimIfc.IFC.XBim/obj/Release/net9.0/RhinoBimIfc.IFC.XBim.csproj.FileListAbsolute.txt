@@ -1,0 +1,16 @@
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\bin\Release\net9.0\RhinoBimIfc.IFC.XBim.deps.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\bin\Release\net9.0\RhinoBimIfc.IFC.XBim.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\bin\Release\net9.0\RhinoBimIfc.IFC.XBim.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\bin\Release\net9.0\RhinoBimIfc.Core.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\bin\Release\net9.0\RhinoBimIfc.Core.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.csproj.AssemblyReference.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.AssemblyInfoInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.AssemblyInfo.cs
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.csproj.CoreCompileInputs.cache
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.sourcelink.json
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBim.66A96939.Up2Date
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\refint\RhinoBimIfc.IFC.XBim.dll
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\RhinoBimIfc.IFC.XBim.pdb
+C:\Users\Adi.Muff\repos\RhinoBimIfc\src\RhinoBimIfc.IFC.XBim\obj\Release\net9.0\ref\RhinoBimIfc.IFC.XBim.dll

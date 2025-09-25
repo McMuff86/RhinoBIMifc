@@ -10,4 +10,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Xbim.Essentials" Version="6.1.48" />
+    <PackageReference Include="Xbim.Geometry" Version="6.1.48" />
+  </ItemGroup>
+
+  <PropertyGroup Condition=" '$(RhinoBuild)'=='true' ">
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
 </Project>

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <!-- For Rhino 8 runtime, compile against .NET 7 when RhinoBuild=true -->
+  <PropertyGroup Condition=" '$(RhinoBuild)'=='true' ">
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
 </Project>

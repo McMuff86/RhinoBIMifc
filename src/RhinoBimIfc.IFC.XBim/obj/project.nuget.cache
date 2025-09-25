@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "kROgnQ79khk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.XBim\\RhinoBimIfc.IFC.XBim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adi.Muff\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adi.Muff\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Adi.Muff\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Das Paket \"Xbim.Essentials\" der Version (>= 6.1.48) wurde nicht gefunden.\r\n  - 54 Version(en) gefunden in \"nuget.org\" [ Nächste Version: 6.0.521 ]\r\n  - 0 Version(en) gefunden in Microsoft Visual Studio Offline Packages.",
+      "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.XBim\\RhinoBimIfc.IFC.XBim.csproj",
+      "filePath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.XBim\\RhinoBimIfc.IFC.XBim.csproj",
+      "libraryId": "Xbim.Essentials",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1103",
+      "level": "Error",
+      "message": "Ein stabiles Paket \"Xbim.Geometry\" der Version (>= 6.1.48) wurde nicht gefunden.\r\n  - 56 Version(en) gefunden in \"nuget.org\" [ Nächste Version: 6.1.801-netcore ]\r\n  - 0 Version(en) gefunden in Microsoft Visual Studio Offline Packages.",
+      "projectPath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.XBim\\RhinoBimIfc.IFC.XBim.csproj",
+      "filePath": "C:\\Users\\Adi.Muff\\repos\\RhinoBimIfc\\src\\RhinoBimIfc.IFC.XBim\\RhinoBimIfc.IFC.XBim.csproj",
+      "libraryId": "Xbim.Geometry",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

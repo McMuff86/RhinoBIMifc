@@ -227,7 +227,7 @@
             <h2>Layer browser (lower takes priority)</h2>
             <div></div>
             <form id="fileForm">
-                <input type="file" id="fileInput" multiple="true" required><button class="file-upload-submit" type="submit">view ></button>
+                <input type="file" id="fileInput" multiple="true" required accept=".json,.ifcx,.ifcx.json,application/json"><button class="file-upload-submit" type="submit">view ></button>
             </form>
             <form id="urlForm">
                 <input type="text" placeholder="url" id="urlInput" name="urlInput" required><button class="url-submit" type="submit">view ></button>
@@ -268,11 +268,21 @@
 
             const fileInput = document.getElementById('fileInput');
             for (const file of fileInput.files) {
+                const lower = file.name.toLowerCase();
+                if (lower.endsWith('.ifc')) {
+                    document.querySelector('.error-modal .message').innerHTML = 'This viewer expects IFCX JSON (.ifcx/.json). You selected a STEP (.ifc) file which is not JSON. Please choose an .ifcx file (e.g. examples/Hello Wall/hello-wall.ifcx).';
+                    document.querySelector('.error-modal').style.display = 'block';
+                    continue;
+                }
                 const reader = new FileReader();
                 reader.onload = function(e) {
                     let json = null;
                     try {
-                        json = JSON.parse(e.target.result);
+                        const text = e.target.result;
+                        if (typeof text === 'string' && text.startsWith('ISO-10303')) {
+                            throw new Error("Unexpected token 'I': Detected STEP (.ifc) content. Load IFCX JSON instead (.ifcx/.json).");
+                        }
+                        json = JSON.parse(text);
                     } catch(e) {
                         document.querySelector('.error-modal .message').innerHTML = e.message;
                         document.querySelector('.error-modal').style.display = 'block';

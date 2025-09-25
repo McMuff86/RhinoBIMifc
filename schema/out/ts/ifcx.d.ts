@@ -27,7 +27,8 @@ export interface components {
         };
         IfcxHeader: {
             id: string;
-            version: string;
+            ifcxVersion: string;
+            dataVersion: string;
             author: string;
             timestamp: string;
         };
